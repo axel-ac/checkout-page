@@ -5,6 +5,7 @@ Project aims to create a real checkout page of e-commerce website.
 ```
 checkout-page(folder)
 |
+|----img(folder)
 |----readme.md                 
 |----index.html  
 |----style.css   
